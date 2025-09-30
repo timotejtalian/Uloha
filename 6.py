@@ -1,4 +1,4 @@
-x=int(input("Zadejte cislo: "))
+x=int(input("Zadaj cislo: "))
 if x%4==0 and x%7==0:
     print("Cislo je delitelne styri a sedemimi")
 elif x%4==0:
